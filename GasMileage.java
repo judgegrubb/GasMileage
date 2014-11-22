@@ -1,9 +1,4 @@
-// Elijah Grubb
-// CS1410
 // August 29, 2014
-// u0894728
-
-package cs1410;
 
 import java.text.DecimalFormat;
 
